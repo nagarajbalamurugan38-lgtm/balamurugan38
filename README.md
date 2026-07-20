@@ -1,10 +1,12 @@
-• Intro Section (Hi, I'm Balamurugan)
-• Typing Animation Banner
-• About Me Section
-• Portfolio + LinkedIn badges
-• Tech Stack icons
-• Current Projects section
-• GitHub Stats cards
-• Tools section
-• Contribution graph
-• Visitor badge
+Internship_Submission/
+├── PowerBI_Assignment.pbix
+├── Internship_Report_BalaMurugan.pdf
+├── Task 2 Python Notebook.ipynb
+├── Task 3 Python Notebook.ipynb
+├── README.md
+├── Play Store Data.csv
+├── User_Reviews.csv
+└── screenshots/
+    ├── dashboard1.png
+    ├── dashboard2.png
+    ├── dashboard3.png
